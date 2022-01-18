@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/React_with_UseQuery_cointracker/static/js/main.0e434b9e.js",
+    "main.js": "/React_with_UseQuery_cointracker/static/js/main.520d7f98.js",
     "index.html": "/React_with_UseQuery_cointracker/index.html",
-    "main.0e434b9e.js.map": "/React_with_UseQuery_cointracker/static/js/main.0e434b9e.js.map"
+    "main.520d7f98.js.map": "/React_with_UseQuery_cointracker/static/js/main.520d7f98.js.map"
   },
   "entrypoints": [
-    "static/js/main.0e434b9e.js"
+    "static/js/main.520d7f98.js"
   ]
 }
